@@ -161,7 +161,7 @@
     "hide-this-window": "Hide this window"
   },
   "innerHTML": {
-    "logo-header": "\n<font id=\"qos\">V</font>DO.Ninja \n",
+    "logo-header": "\n<font id=\"qos\">S</font>MARTIUM call \n",
     "copy-this-url": "Copy this URL into an OBS \"Browser Source\"",
     "you-are-in-the-control-center": "Control center for room:",
     "joining-room": "You are in room",
@@ -229,7 +229,7 @@
     "enter-the-website-URL-you-wish-to-share": "Enter the URL website you wish to share.",
     "run-a-speed-test": "Run a Speed Test",
     "read-the-guides": "Browse the Guides",
-    "info-blob": "\n<h2>What is VDO.Ninja</h2>\n<br>\n<li>100% <b>free</b>; no downloads; no personal data collection; no sign-in</li>\n<li>Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.</li>\n<li>We use cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency</li>\n<br>\n<li>Youtube video \n<i class=\"lab la-youtube\"></i>\n<a href=\"https://www.youtube.com/watch?v=vLpRzMjUDaE&amp;list=PLWodc2tCfAH1WHjl4WAOOoRSscJ8CHACe&amp;index=2\" alt=\"Youtube video demoing VDO.Ninja\">Demoing it here</a>\n</li>\n\n<br>\n<br>\n<h3>\n   🛠 For support, see the <a href=\"https://www.reddit.com/r/VDONinja/\">sub-reddit <i class=\"lab la-reddit-alien\"></i></a> or join the <a href=\"https://discord.gg/T4xpQVv\">Discord <i class=\"lab la-discord\"></i></a>. The <a href=\"https://docs.vdo.ninja/\">documentation is here</a> and my personal email is <i>steve@seguin.email</i>\n</h3> \n\n",
+    "info-blob": "\n<h2>What is SMARTIUM call</h2>\n<br>\n<li>100% <b>free</b>; no downloads; no personal data collection; no sign-in</li>\n<li>Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.</li>\n<li>We use cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency</li>\n<br>\n<li>Youtube video \n<i class=\"lab la-youtube\"></i>\n<a href=\"https://www.youtube.com/watch?v=vLpRzMjUDaE&amp;list=PLWodc2tCfAH1WHjl4WAOOoRSscJ8CHACe&amp;index=2\" alt=\"Youtube video demoing SMARTIUM call\">Demoing it here</a>\n</li>\n\n<br>\n<br>\n<h3>\n   🛠 For support, see the <a href=\"https://www.reddit.com/r/VDONinja/\">sub-reddit <i class=\"lab la-reddit-alien\"></i></a> or join the <a href=\"https://discord.gg/T4xpQVv\">Discord <i class=\"lab la-discord\"></i></a>. The <a href=\"https://docs.vdo.ninja/\">documentation is here</a> and my personal email is <i>steve@seguin.email</i>\n</h3> \n\n",
     "hide-the-links": " LINKS (GUEST INVITES &amp; SCENES)",
     "click-for-quick-room-overview": "\n<i class=\"las la-question-circle\"></i> <span data-translate=\"click-here-for-help\">Click Here for a quick overview and help</span>\n",
     "click-here-for-help": "Click Here for a quick overview and help",
@@ -320,7 +320,7 @@
     "toggle-control-video": "Toggle control bar",
     "picture-in-picture": "Picture-in-picture",
     "chrome-cast": "Cast..",
-    "welcome-to-obs-ninja-chat": "\nWelcome to VDO.Ninja! You can send text messages directly to connected peers from here.\n",
+    "welcome-to-obs-ninja-chat": "\nWelcome to SMARTIUM call! You can send text messages directly to connected peers from here.\n",
     "send-chat": "Send",
     "apply-new-guest-settings": "Apply settings",
     "cancel": "Cancel",
@@ -347,7 +347,7 @@
   "miscellaneous": {
     "start": "START",
     "new-display-name": "Enter a new Display Name for this stream",
-    "submit-error-report": "Press OK to submit any error logs to VDO.Ninja. Error logs may contain private information.",
+    "submit-error-report": "Press OK to submit any error logs to SMARTIUM call. Error logs may contain private information.",
     "director-redirect-1": "The director wishes to redirect you to the URL: ",
     "director-redirect-2": "\n\nPress OK to be redirected.",
     "add-a-label": "Add a label",

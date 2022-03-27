@@ -1,6 +1,6 @@
 ## Install and setup guide for a TURN Relay Server
 
-#### why? You may want to deploy one to ensure high compatiblity with remote guests. If you try to use the official VDO.Ninja TURN servers for a private deployment, you may find yourself getting kicked off.
+#### why? You may want to deploy one to ensure high compatiblity with remote guests. If you try to use the official SMARTIUM call TURN servers for a private deployment, you may find yourself getting kicked off.
 
 This install script and config file was used with a standard virtual machine server loaded with Ubuntu 20.  GCP/AWS servers might need slightly different settings.
 

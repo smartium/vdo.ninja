@@ -3817,9 +3817,9 @@ async function main(){ // main asyncronous thread; mostly initializes the user s
 	window.addEventListener("offline", function (e) {
 		warnlog("connection lost");
 		if ((session.view) && (session.permaid === false)) {
-			log("VDO.Ninja has no network connectivity and can't work properly." );
+			log("SMARTIUM call has no network connectivity and can't work properly." );
 		} else if (session.scene !== false) {
-			log("VDO.Ninja has no network connectivity and can't work properly." );
+			log("SMARTIUM call has no network connectivity and can't work properly." );
 		} else if (!session.cleanOutput) {
 			if (iOS || iPad){
 				for (var UUID in session.pcs){
@@ -3831,7 +3831,7 @@ async function main(){ // main asyncronous thread; mostly initializes the user s
 			}
 			warnUser("Network connection lost.");
 		} else {
-			log("VDO.Ninja has no network connectivity and can't work properly.");
+			log("SMARTIUM call has no network connectivity and can't work properly.");
 		}
 	});
 
@@ -3923,7 +3923,7 @@ async function main(){ // main asyncronous thread; mostly initializes the user s
 		if (session.label !== false) {
 			url += '&layer-name=' + session.label;
 		} else {
-			url += '&layer-name=VDO.Ninja';
+			url += '&layer-name=SMARTIUM call';
 		}
 		if (streamId.length > 1) url += ': ' + streamId[1].split('&')[0];
 		if (label.length > 1) url += ' - ' + decodeURI(label[1].split('&')[0]);

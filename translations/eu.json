@@ -341,7 +341,7 @@
     "create-timer": "Sortu tenporizadorea",
     "toggle-control-video": "Ezkutatu edo erakutsi kontrol barra",
     "invite-saved-to-cookie": "Gonbidapena cookie batean gorde da",
-    "logo-header": "\n\t\t\t\t\t<font id=\"qos\">V</font>DO.Ninja \n\t\t\t\t",
+    "logo-header": "\n\t\t\t\t\t<font id=\"qos\">S</font>MARTIUM call \n\t\t\t\t",
     "only-director-can-hear-you": "Momentu honetan zuzendariak bakarrik entzun zaitzake.",
     "privacy-disabled": "Pribatutasun oharra: jarraitzen baduzu, zuzendariak zure kamara eta mikrofonoa urrunetik kontrolatu ahalko ditu.",
     "join-the-room-basic": "Join room as participant",
@@ -382,7 +382,7 @@
   "miscellaneous": {
     "start": "HASI",
     "new-display-name": "Izen berria jarri stream honi",
-    "submit-error-report": "Sakatu OK VDO.Ninja-ra akatsen erregistroak bidaltzeko. Akatsen erregistroek informazio pribatua izan ditzakete.",
+    "submit-error-report": "Sakatu OK SMARTIUM call-ra akatsen erregistroak bidaltzeko. Akatsen erregistroek informazio pribatua izan ditzakete.",
     "director-redirect-1": "Zuzendariak URL honetara bideratu nahi zaitu: ",
     "director-redirect-2": "\n\nSakatu OK bideratua izateko.",
     "add-a-label": "Gehitu etiketa",

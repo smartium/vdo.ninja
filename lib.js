@@ -25,7 +25,7 @@ var translation = false;
 var miscTranslations = {
 	"start" : "START",
 	"new-display-name":"Enter a new Display Name for this stream",
-	"submit-error-report": "Press OK to submit any error logs to VDO.Ninja. Error logs may contain private information.",
+	"submit-error-report": "Press OK to submit any error logs to SMARTIUM call. Error logs may contain private information.",
 	"director-redirect-1": "The director wishes to redirect you to the URL: ",
 	"director-redirect-2": "\n\nPress OK to be redirected.",
 	"add-a-label": "Add a label",
@@ -1086,7 +1086,7 @@ function obsSourceActiveChanged(event){
 	} catch (e){errorlog(e);}
 }
 
-function obsSourceVisibleChanged(event){ // accounts for visible in VDO.Ninja scene AND visible in OBS scene
+function obsSourceVisibleChanged(event){ // accounts for visible in SMARTIUM call scene AND visible in OBS scene
 	warnlog("obsSourceVisibleChanged");
 	warnlog(event.detail);
 	try {
@@ -5971,7 +5971,7 @@ function printValues(obj) { // see: printViewStats
 						}
 					}
 					else if (key == 'version') {
-						stat = "VDO.Ninja Version";
+						stat = "SMARTIUM call Version";
 					} else if (key == 'platform') {
 						stat = "Platform (OS)";
 					}
